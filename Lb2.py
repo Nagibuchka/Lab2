@@ -55,3 +55,4 @@ imx = found_max(y,n)
 summ(y,imn,imx)
 
 print(--------HELLO--------)
+# ya zminiv fail

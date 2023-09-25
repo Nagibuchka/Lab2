@@ -53,3 +53,5 @@ print_mass(x,y,n)
 imn = found_min(y,n)
 imx = found_max(y,n)
 summ(y,imn,imx)
+
+print(--------HELLO--------)

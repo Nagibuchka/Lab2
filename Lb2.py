@@ -54,5 +54,5 @@ imn = found_min(y,n)
 imx = found_max(y,n)
 summ(y,imn,imx)
 
-print(--------HELLO--------)
+print("--------HELLO--------")
 # ya zminiv fail
